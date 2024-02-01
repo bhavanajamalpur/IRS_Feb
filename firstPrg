@@ -1,0 +1,4 @@
+from nltk.tokenize import word_tokenize
+  text = "Hello everyone. Welcome to SR University"
+word_tokenize(text)
+
